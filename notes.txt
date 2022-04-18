@@ -1,0 +1,5 @@
+&#039;
+&quot;The Aviator&quot;  &quot is single quotation mark
+the above weird format in the output are the HTML entities which are formatted according to the html and
+these can be formatted in human-readable format on "freeformatter" website, it does the unescaping of the
+html entities
